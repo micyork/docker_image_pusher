@@ -10,5 +10,6 @@ johngong/qbittorrent
 likeflyme/cloudbak
 youshandefeiyang/allinone
 zmisgod/iptvchecker
+revenz/fileflows
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
