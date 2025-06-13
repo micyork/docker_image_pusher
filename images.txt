@@ -12,6 +12,6 @@ youshandefeiyang/allinone
 zmisgod/iptvchecker
 revenz/fileflows
 c4illin/convertx
-jiesage/handbrake
+jlesage/handbrake
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
